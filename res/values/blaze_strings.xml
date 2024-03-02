@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2021 Project Blaze
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+      <!--   appstore strings  -->
+    <string name="apps_market_title">App Store</string>
+    
+    <!--   aboutus strings  -->
+    <string name="aboutus_title">About RootOS</string>
+    <string name="aboutus_summary">about us page</string>
+    <string name="aboutus_bubble_setting_description">Team Root is the solo endeavor of Parveen Singh from Kozhikode, Kerala. Praveen wishes to address the challenges teenagers face in accessing quality education and maintaining a healthy balance with technology. With his solution, Root OS, he seeks to democratize access to quality education and promote responsible technology usage. He seeks to foster healthier online experiences and contribute to the overall well-being of teenagers.</string>
+    <string name="about_us_info">Our Website</string>
+    <string name="about_us_info_summary">get more info</string>
+    <string name="aboutus_link_summary">OrchidOs Support</string>
+    <string name="aboutus_link_title">Customer Support</string>
+
+    
+    
+    <!-- Dashboard messages -->
+    <string name="dashboard_morning1">we love india</string>
+    <string name="dashboard_morning2">The Sun is up in Kozhikode!</string>
+    <string name="dashboard_morning3">we love Kozhikode</string>
+    <string name="dashboard_morning4">Have a great day..</string>
+    <string name="dashboard_morning5">India loves you </string>
+    <string name="dashboard_noon1">Good Afternoon</string>
+    <string name="dashboard_noon2">Enjoy the Sunset.</string>
+    <string name="dashboard_noon3">Kerala</string>
+    <string name="dashboard_noon4">by Parveen Singh</string>
+    <string name="dashboard_noon5">Welcome back..</string>
+    <string name="dashboard_early_night1">Good Evening..</string>
+    <string name="dashboard_early_night2">by Parveen Singh</string>
+    <string name="dashboard_night3">Sweet Dreams</string>
+    <string name="dashboard_night4">India loves you</string>
+    <string name="dashboard_night5">India</string>
+    <string name="dashboard_midnight1">India loves you samsung</string>
+    <string name="dashboard_midnight2">by Parveen Singh</string>
+    <string name="dashboard_midnight3">Boss Get some sleep..</string>
+    <string name="dashboard_midnight4">India loves you..</string>
+    <string name="dashboard_midnight5">India loves you..</string>
+    <string name="dashboard_random1">thats what i like.</string>
+    <string name="dashboard_random2">India loves you</string>
+    <string name="dashboard_random3">samsung india </string>
+    <string name="dashboard_random4">we love india</string>
+    <string name="dashboard_random5">India loves you</string>
+    <string name="dashboard_random6">India loves you</string>
+</resources>
